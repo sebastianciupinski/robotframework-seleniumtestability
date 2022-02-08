@@ -145,10 +145,10 @@ class SeleniumTestability(LibraryComponent):
         "edge": DesiredCapabilities.EDGE,
         "opera": DesiredCapabilities.OPERA,
         "safari": DesiredCapabilities.SAFARI,
-        "phantomjs": DesiredCapabilities.PHANTOMJS,
+        ##"phantomjs": DesiredCapabilities.PHANTOMJS,
         "htmlunit": DesiredCapabilities.HTMLUNIT,
         "htmlunitwithjs": DesiredCapabilities.HTMLUNITWITHJS,
-        "android": DesiredCapabilities.ANDROID,
+        ##"android": DesiredCapabilities.ANDROID,
         "iphone": DesiredCapabilities.IPHONE,
     }
 
